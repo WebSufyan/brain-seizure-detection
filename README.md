@@ -14,3 +14,7 @@ The GRU is like a long short-term memory with a forget gate, but has fewer param
 electroencephalogram (EEG) is a test that detects electrical activity in your brain using small, metal discs (electrodes) attached to your scalp. 
 Your brain cells communicate via electrical impulses and are active all the time, even when you're asleep.
 This activity shows up as wavy lines on an EEG recording
+
+
+link to dataset: 
+https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
